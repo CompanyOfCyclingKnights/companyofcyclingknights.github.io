@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Group photo" class="profile">
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Welcome to our journey to raise money for [the Sea Cadets](http://www.sea-cadets.org/) and [the Whitechapel Mission](https://whitechapel.org.uk/).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+We are 7 cyclists and 1 driver.
