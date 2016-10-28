@@ -5,7 +5,7 @@ date:   2016-09-03 08:10:00
 author: Sean
 categories: Route
 tags:	route strava
-cover:  "/assets/johnogroatssign.jpg"
+cover:  "/assets/johnogroatssign.png"
 ---
 
 Day 1, the start of the adventure.
