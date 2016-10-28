@@ -5,7 +5,7 @@ date:   2016-09-03 08:10:00
 author: Sean
 categories: Route
 tags:	route strava
-cover:  "/assets/Glenmorangie-Distillery-Warehouse.jpg"
+cover:  "/assets/glenmorangie.jpg"
 ---
 
 Day 2, Riding into it.
