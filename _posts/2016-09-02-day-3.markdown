@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Day 3 - Kirkaldy to Alnwick"
+date:   2016-09-03 08:10:00
+author: Sean
+categories: Route
+tags:	route strava
+cover:  "/assets/edinburgh_castle2.png"
+---
+
+Day 1, the start of the adventure.
+
+It's going to very picturesque which is just another way of saying
+steep! :)
+
+Below you should find a VeloViewer of the day's ride (sometimes takes a
+few seconds to load):-
+
+<iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937551/embed2" frameborder="0" scrolling="no"></iframe>

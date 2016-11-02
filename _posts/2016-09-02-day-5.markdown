@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Day 5 - Whitby to Lincoln"
+date:   2016-09-03 08:10:00
+author: Sean
+categories: Route
+tags:	route strava
+cover:  "/assets/lincoln_cathedral.png"
+---
+
+Day 5, to Lincoln
+
+Can't visit Lincoln without going up Steep Hill.
+
+Below you should find a VeloViewer of the day's ride (sometimes takes a
+few seconds to load):-
+
+<iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937586/embed2" frameborder="0" scrolling="no"></iframe>

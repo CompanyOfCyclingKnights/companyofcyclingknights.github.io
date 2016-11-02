@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Day 9 - Taunton to Plymouth"
+date:   2016-09-03 08:10:00
+author: Sean
+categories: Route
+tags:	route strava
+cover:  "/assets/Plymouth-barracuda-1971.jpg"
+---
+
+Oh you mean the other Plymouth?
+
+Pretty sure this is the meanest looking car I've ever seen.
+
+Below you should find a VeloViewer of the day's ride (sometimes takes a
+few seconds to load):-
+
+
