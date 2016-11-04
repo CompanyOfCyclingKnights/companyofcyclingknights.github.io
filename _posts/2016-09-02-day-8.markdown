@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Day 8 - Swindon to Taunton"
+title:  "Day 8 - Milton Keynes to Swindon"
 date:   2016-09-03 08:10:00
 author: Sean
 categories: Route
 tags:	route strava
-elevation: 3,406ft
-distance: 94.6mi
-cover:  "/assets/Bath,_Somerset_Panorama_-_April_2011.png"
+distance: 75.8mi
+elevation: 2,197ft
+cover:  "/assets/Magic_Roundabout_Schild_db.png"
 ---
 
 
@@ -15,4 +15,4 @@ cover:  "/assets/Bath,_Somerset_Panorama_-_April_2011.png"
 Below you should find a VeloViewer of the day's ride (sometimes takes a
 few seconds to load):-
 
-<iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937645/embed2" frameborder="0" scrolling="no"></iframe>
+<iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/5267986/embed2" frameborder="0" scrolling="no" markdown="0"></iframe>

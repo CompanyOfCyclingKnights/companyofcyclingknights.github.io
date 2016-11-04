@@ -1,21 +1,17 @@
 ---
 layout: post
-title:  "Day 10 - Plymouth to Lands End "
+title:  "Day 10 - Taunton to Plymouth"
 date:   2016-09-04 08:10:00
 author: Sean
 categories: Route
 tags:	route strava
-distance: 93.1mi
-elevation: 7,727ft
-cover:  "/assets/St_Michaels_Mount_II5302_x_2982.png"
+cover:  "/assets/Plymouth-barracuda-1971.jpg"
 ---
 
-Day 1, the start of the adventure.
+Oh you mean the other Plymouth?
 
-It's going to very picturesque which is just another way of saying
-steep! :)
+Pretty sure this is the meanest looking car I've ever seen.
 
 Below you should find a VeloViewer of the day's ride (sometimes takes a
 few seconds to load):-
 
-<iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937694/embed2" frameborder="0" scrolling="no"></iframe>

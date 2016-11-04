@@ -35,7 +35,7 @@ layout: default
     <p class="center">
       A big thanks to our sponsors for all their support!
     </p>
-    <ul class='sponsors'>
+    <ul class='badges'>
       <li>
         <a href="http://storelocator.asda.com/store/isle-of-dogs">
           <img src="/assets/sponsors/asda.png">
@@ -65,48 +65,74 @@ layout: default
   </div>
 </div>
 
-<div class="section">
-  <div class="wrapper home">
-    <h2>Meet the Team</h2>
-    <a class='center' href="/about/">Find out more</a>
-  </div>
+<div class="section ">
+  <div class="wrapper home charities">
+    <h2>Charities</h2>
+    <p class="center">
+      These are our three nominated charities.
+    </p>
+    <ul class='badges'>
+      <li>
+        <a href="https://whitechapel.org.uk/">
+          <img src="https://whitechapel.org.uk/themes/poppy/img/logo.png">
+        </a>
+        </li>
+        <li>
+        <a href="http://www.sea-cadets.org/chelmsford/home.aspx">
+          <img src="/assets/Upholder_crest2.gif">
+        </a>
+      </li>
+			<li>
+				<a href="http://www.nosecondnightout.org.uk/">
+					<img src="/assets/black_logos2.png">
+				</a>
+			</li>
+		</ul>
+	</div>
 </div>
 
-<div class="section dark">
-  <div class="wrapper home">
-<h2>Blog</h2>
-<ul class="post-list">
-  {% for post in paginator.posts %}
-    {% if post.categories[0] != "Route" %}
-    <li>
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-  <!--     <section class="post-excerpt" itemprop="description">
-        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-      </section> -->
-      <section class="post-meta">
-        <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-        <div class="post-categories">
-        {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-          {% if site.jekyll-archives %}
-          <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-          {% else %}
-          <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
-          {% endif %}
-        {% endfor %}{% endif %}
-        </div>
-      </section>
-    </li>
-    {% if forloop.last == false %}
-    <hr>
-    {% endif %}
-  {% endif %}
-  {% endfor %}
-  </ul>
+<div class="section dark ">
+	<div class="wrapper home">
+		<h2>Meet the Team</h2>
+		<a class='center' href="/about/">Find out more</a>
+	</div>
+</div>
 
-  <a class='center' href="/blog/">View full blog</a>
-  </div>
+<div class="section ">
+	<div class="wrapper home">
+		<h2>Blog</h2>
+		<ul class="post-list">
+			{% for post in paginator.posts %}
+			{% if post.categories[0] != "Route" %}
+			<li>
+				<h2>
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</h2>
+				<!--     <section class="post-excerpt" itemprop="description">
+					<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+				</section> -->
+				<section class="post-meta">
+					<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+					<div class="post-categories">
+						{% if post.categories.size > 0 %}in {% for cat in post.categories %}
+						{% if site.jekyll-archives %}
+						<a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+						{% else %}
+						<span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
+						{% endif %}
+						{% endfor %}{% endif %}
+					</div>
+				</section>
+			</li>
+			{% if forloop.last == false %}
+			<hr>
+			{% endif %}
+			{% endif %}
+			{% endfor %}
+		</ul>
+
+		<a class='center' href="/blog/">View full blog</a>
+	</div>
 </div>
 
 </div>
