@@ -5,6 +5,8 @@ date:   2016-09-04 08:10:00
 author: Sean
 categories: Route
 tags:	route strava
+distance: 93.1mi
+elevation: 7,727ft
 cover:  "/assets/St_Michaels_Mount_II5302_x_2982.png"
 ---
 

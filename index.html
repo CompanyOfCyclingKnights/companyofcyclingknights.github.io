@@ -12,78 +12,95 @@ layout: default
   </div>
 </div>
 
-<div class="wrapper">
+<div class="section">
+  <div class="wrapper home route">
+    <h2>Route</h2>
+    {% for post in site.categories.Route reversed %}
+      <li>
+        <strong class='route-title'>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </strong>
+        <span class='meta'>Distance: {{post.distance}}. Elevation: {{ post.elevation }}</span>
+      </li>
+    {% endfor %}
+    </ul>
+    {% if forloop.last == false %}<hr>{% endif %}
+    <br/>
+  </div>
+</div>
+
+<div class="section dark">
+  <div class="wrapper home sponsors">
+    <h2>Sponsors</h2>
+    <p class="center">
+      A big thanks to our sponsors for all their support!
+    </p>
+    <ul class='sponsors'>
+      <li>
+        <a href="http://storelocator.asda.com/store/isle-of-dogs">
+          <img src="/assets/sponsors/asda.png">
+        </a>
+      </li>
+      <li>
+        <a href="http://www.santander.co.uk/uk/index">
+          <img src="/assets/sponsors/santander.png">
+        </a>
+       </li>
+      <li>
+        <a href="https://stores.sainsburys.co.uk/0460/whitechapel">
+          <img src="/assets/sponsors/sainsburys.png">
+        </a>
+      </li>
+      <li>
+        <a href="http://www.elmycycles.co.uk/">
+          <img src="/assets/sponsors/elmy.png">
+        </a>
+      </li>
+      <li>
+        <a href="http://www.tesco.com/store-locator/uk/?bID=2152">
+          <img src="/assets/sponsors/tesco.png">
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="section">
+  <div class="wrapper home">
+<h2>Blog</h2>
 <ul class="post-list">
   {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <div class="post-categories">
-      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-        {% if site.jekyll-archives %}
-        <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% else %}
-        <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
-        {% endif %}
-      {% endfor %}{% endif %}
-      </div>
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
+    {% if post.categories[0] != "Route" %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+  <!--     <section class="post-excerpt" itemprop="description">
+        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      </section> -->
+      <section class="post-meta">
+        <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+        <div class="post-categories">
+        {% if post.categories.size > 0 %}in {% for cat in post.categories %}
+          {% if site.jekyll-archives %}
+          <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+          {% else %}
+          <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
+          {% endif %}
+        {% endfor %}{% endif %}
+        </div>
+      </section>
+    </li>
+    {% if forloop.last == false %}
+    <hr>
+    {% endif %}
   {% endif %}
   {% endfor %}
-</ul>
+  </ul>
 
-<nav class="pagination" role="navigation">
-  <p>
-    {% if paginator.next_page %}
-    <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-    {% else %}
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-    </span>
-    {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-      <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-      {% else %}
-      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-      {% endif %}
-    {% else %}
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-    </span>
-    {% endif %}
-  </p>
-  <p>
-    <a href="{{ site.baseurl }}/posts">View All Posts by Category</a>
-  </p>
-</nav>
-
+  <a class='center' href="/blog/">View full blog</a>
+  </div>
 </div>
+
 </div>

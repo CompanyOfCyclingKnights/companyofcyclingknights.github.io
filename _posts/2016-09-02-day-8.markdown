@@ -5,6 +5,8 @@ date:   2016-09-03 08:10:00
 author: Sean
 categories: Route
 tags:	route strava
+elevation: 3,406ft
+distance: 94.6mi
 cover:  "/assets/Bath,_Somerset_Panorama_-_April_2011.png"
 ---
 

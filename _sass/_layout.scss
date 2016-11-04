@@ -27,6 +27,65 @@ ul.default {
 	@extend %default-ul;
 }
 
+.wrapper.home{
+  h2, a.center{
+    display: block;
+    text-align: center;
+  }
+  li{
+    list-style-type: none;
+  }
+}
+
+.key-stats{
+  background-color: #f8f8f8;
+  border: 12px solid #eee;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.route li{
+  font-size: 18px;
+  line-height: 34px;
+}
+
+.section{
+  padding: 20px 0
+}
+
+.center{
+  text-align: center;
+}
+
+.section.dark{
+  background-color: #f8f8f8;
+  border: 1px solid #eeeeee;
+  li{
+    list-style:none;
+  }
+}
+
+@media screen and (max-width: 765px){
+  .route-title{
+    display: block;
+  }
+}
+
+.sponsors{
+  text-align: center;
+  li{
+    display: inline-block;
+    padding: 6px;
+    img{
+      width: 125px
+    }
+  }
+}
+
+.route span.meta{
+  color: #888;
+}
+
 code {
 	background-color: #eee;
 	display: inline-block;
