@@ -4,15 +4,14 @@ title:  "Day 8 - Milton Keynes to Swindon"
 date:   2016-09-03 08:10:00
 author: Sean
 categories: Route
-tags:	route strava
+tags: route strava
 distance: 75.8mi
 elevation: 2,197ft
 cover:  "/assets/Magic_Roundabout_Schild_db.png"
 ---
 
 
-
 Below you should find a VeloViewer of the day's ride (sometimes takes a
 few seconds to load):-
 
-<iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/5267986/embed2" frameborder="0" scrolling="no" markdown="0"></iframe>
+<iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937658/embed2" frameborder="0" scrolling="no"></iframe>
