@@ -80,6 +80,15 @@ ul.default {
       width: 125px
     }
   }
+  &.charities{
+    li{
+      padding: 6px 40px;
+      img{
+        width: 90px;
+        padding-bottom: 6px;
+      }
+    }
+  }
 }
 
 .route span.meta{
