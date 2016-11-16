@@ -10,12 +10,37 @@ elevation: 4,172ft
 cover:  "/assets/St_Marys_Church_and_Whitby_Abbey_by_Night.png"
 ---
 
-Day 4, Fangtastic.
+<div class="key-stats">
+  <strong>Day 5 in numbers - </strong> Distance: 115.7mi, Elevation: 4,172ft, Estimated moving time: 9hrs
+</div>
 
-It's going to very picturesque which is just another way of saying
-steep! :)
+Soooo many miles to go, but at least we are now into England and the supposed flat section of the ride, or so I am told. We say goodbye to Alnwick, described as a small market town in Northumberland the population for the day will increase by 8 very hungry cyclists of varying ages…and hopefully by now very understanding van driver. If he has not had enough of us, the moaning, groaning and being the shoulder to cry on following the bumpy ride through Scotland.
 
-Below you should find a VeloViewer of the day's ride (sometimes takes a
-few seconds to load):-
+The first major point on the map is Amble. This will hopefully allow a great view of the North Sea and provide a great navigational aid (keep the big blue sea to the left and we can’t go wrong!). Its history can be traced back to the 1200’s and comes from the Gaelic word Am Béal, meaning “tidal inlet”. It is from here we will sweep down to Whitley Bay, which it is claimed to be a “great day out for the kids”. Not much chance of fun in the sun, but eating into the 115 mile route for today the costal road rises slightly and brings into the Tynemouth.
+
+The relatively traffic free roads of the North are now behind us, so now back to negotiating the traffic of this historic borough in Tyne & Wear which sits at the mouth of the River Tyne. My only recollection of this area before this trip was a very badly executed song from the early 90’s sung by Paul Gascoigne. But I am sure this adventure is going to change all that. But if it’s foggy I am going to have a little chuckle to myself.
+
+This part of the world, in history is renowned for its significant war time strategic importance. But conflict aside, it now affords an array of shops, coffee-shops, pubs and restaurants – which I’m sure we will take note of and look at with some envy to those enjoying the spring weather.
+
+A brief detour in-land to allow a dry crossing across the River Tyne. And once across a left turn back towards the calm of the North Sea to head south along the cost through South Shields (wondering if the North and South Shields rivalries are comparable to the North and South London issues!).
+
+A quick 47 miles to Seaburn – the Chelsea of Sunderland. Virtually all of Seaburn consists of low-density private housing, open parkland and laid out in the middle of the 20th century. Much of the housing is amongst the most expensive in Sunderland, with many large mansion houses situated along the coast, and on adjoining streets.
+
+Into Sunderland – and then through a place rather apt called Hendon. (I’m sure a few stories will get told) and then the climbs begin – from a relatively flat ride, and away from the North sea inland through Seaham onto Dalton-Le-Dale some clues suggest the more adventurous part of the ride begins – just what is needed at the end of this 100mile plus section for today.
+
+Out past the colliery at Blackhall, and hopefully within sight of the North Sea again…the contours are once again in our favor and the ride eases slightly. Onto Foggy Furze and through to Seaton Carew, which saw its growth from a fishing village to a popular seaside resort in the 18th and 19th Centuary. It saw a recent rise in fame when in December 2007 a local man, John Darwin was reported to have died following an apparent canoeing accident off Seaton Beach. Who later walked into a London police station and gave himself up as a missing person, sparking a major fraud investigation and evidence of his attempt to start a new life in Panama. The sun, beaches and fun of Panama will seem a long way away – but the thought hitting the end of this magnificent tour in Lands End will be just as alluring.
+
+Once through the ever present seaside’s chip shops, candy floss stalls and bars – no stopping as we again head slightly in land towards Seal Sands, Haverton Hill – where as the name suggests starts the climb into Middlesborough.
+
+Here, away from the tranquil costal roads we negotiate this relatively busy town, the largest industrial town on the River Tees and provides a timely reminder that the North Yorkshire Moors are not far away.
+
+In the early 19th Century the population, of what was just a small farm town was 25.  But since its rapid growth following the creation of a coaling industry saw a rapid rise in its population and production. Its home now to a diverse population both in terms of race and religion and is known for its love of sport and the arts. Some of which will hopefully not be lost on us as we head across yet another river, into the south half of the town on the ever increasing gradient into Berwick Hills (there that word again…) and Guisborough.
+
+By now, the scenery should have changed. The green of the North Yorkshire Moors will be in view as we head east. Online sources provide the following description “The south of the town is bounded by the North York Moors National Park. Guisborough Forest, which is Forestry Commission land, clothes the edge of the moors. Through the forest, the ground rises sharply, climbing from the plain below to the height of the moors behind….” – I will leave that there…
+We pass through Moorsholm, Scaling and Ugthorpe where the blue of the North Sea is swapped for the tranquil, rolling hills of the North Yorkshire Moors. Once part of the ride, hill and the red warning signs of the map indicate aside I am really looking forward to. Not because it nears the end of day 5, and almost half way on this epic journey – but only ever been here as a young version of myself many, many years ago – the views I recall are going to be amazing. Just hope, I am at the front of the group and not sizing up someone’s back wheel.
+
+Onto Mickleby and then into Sandsend, which sees us as the name suggests at the end of Eastern route we have been along, turning south and towards the smells, sounds and view that is Whitby. And relax…..
+Day 5 done, and only one 100+ mile ride left to do, if the calculations are right. Sub 100 mile routes await, so to Day 6. Who’s up for a ride to Lincoln!
+
 
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937568/embed2" frameborder="0" scrolling="no"></iframe>

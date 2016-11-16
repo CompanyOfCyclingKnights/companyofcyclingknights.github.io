@@ -10,12 +10,23 @@ elevation: 5,515ft
 cover:  "/assets/Keswick_Panorama_Oct_2009.jpg"
 ---
 
-Day 3, Riding into it.
+<div class="key-stats">
+  <strong>Day 3 in numbers - </strong> Distance: 100.9mi, Elevation: 5,515ft, Estimated moving time: 8hrs
+</div>
 
-It's going to very picturesque which is just another way of saying
-steep! :)
+Day three and we continue our adventure through the beautiful Cairn Gorms National Park from Ballater to Kirkcaldy - Distance: 100.9mil. Elevation: 5,515ft. The first 40K is all uphill!
 
-Below you should find a VeloViewer of the day's ride (sometimes takes a
-few seconds to load):-
+We ride out of Ballater and follow the river Dee up stream along the tree lined B976. This gentle incline over about 20k, will take us into Easter Balmoral where we cross over the Dee and join the A93 'The Old Military Road' skirting round the stunning Lochnagar Distillery - oh and Balmoral Castle! We hug the river Dee where we then pass Braemar Castle.
+
+Finally we leave the River Dee and join Clurrie Water where it starts to get seriously steep finally reaching the Glenshee Ski Centre - the highest point of the day at a lung bursting 689 meters and the end of the first 40k - all uphill!
+
+Over the summit and down, still on the Old Military Road. Taking in some seriously spectacular scenery - hands on the brakes as the road snakes down..and down. We follow the Allta 'Ghlinne Bhig as it fast flows down to Shee Water and then, Black Water which escorts us safely out of the Cairn Gorms National Park with one last treat at Dalnaglar Castle - set on a beautiful naturally elevated site in the heart of Glenshee, which is known locally as 'The Fairy Glen'. Originally a 16th century hunting lodge, Dalnaglar Castle was commissioned by Lord Clyde, Queen Victoria's banker, and designed by Her Majesty's architect from Balmoral.
+
+Still on the The Old Military Road We then trail the Black Water downstream - mercifully the general trend remains downhill to the Bridge of Cally. We join the River Enricht and remain on the A93 through Blairgowrie and Rattray where we pass a rather nice Tesco Superstore (Quick plug for one of our generous sponsors) We continue South and through Stanley, nestling on the banks of the River Tay and past several golf courses to Perth and through Bridge of Earn.
+
+On the B996 we climb again up the foothills of the Lomond Hills Regional Park. Through Glenfarg and we skirt the shores of the lovely Loch Leven with 25k to go. We continue the climb to Mossmorran.
+
+Kircaldy is in sight and with 10k to go it should be all down hill!
+
 
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6952917/embed2" frameborder="0" scrolling="no"></iframe>
