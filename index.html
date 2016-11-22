@@ -144,17 +144,21 @@ layout: default
 <div class="section ">
 	<div class="wrapper home">
 		<h2>Blog</h2>
+        <h4>20th Nov 2016: November training ride</h4>
+        <p>
+          We covered 70 miles of Essex countryside on Sunday, much of it in the rain. Below you
+          can see the route in all its glory thanks to relive.cc.
+        </p>
+        <video style="width: 48em" controls src="https://storage.sbg1.cloud.ovh.net/v1/AUTH_297cdb44e582481d87a484aafab89eae/skyhawk-videos/781259027_1479682663122.mp4?x-ref=site">
+        </video>
 		<ul class="post-list">
 			{% for post in paginator.posts %}
 			{% if post.categories[0] != "Route" %}
 			<li>
-				<h2>
-					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-				</h2>
 				<!--     <section class="post-excerpt" itemprop="description">
 					<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
 				</section> -->
-				<section class="post-meta">
+				<!-- <section class="post-meta">
 					<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
 					<div class="post-categories">
 						{% if post.categories.size > 0 %}in {% for cat in post.categories %}
@@ -165,7 +169,7 @@ layout: default
 						{% endif %}
 						{% endfor %}{% endif %}
 					</div>
-				</section>
+				</section> -->
 			</li>
 			{% if forloop.last == false %}
 			<hr>
