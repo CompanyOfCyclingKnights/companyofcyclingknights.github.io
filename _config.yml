@@ -11,8 +11,6 @@ exclude:
 # Site settings
 title: The Company of Cycling Knights
 subtitle: "8 Cyclists and 1 Driver take on the JOGLE"
-email: seanpeterdunn@gmail.com
-name: Sean Dunn
 description: >
   8 Cyclists and 1 Driver take on the JOGLE
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -70,12 +68,6 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: seanpeterdunn
-    url: https://twitter.com/seanpeterdunn
-    desc: Follow me on Twitter
-    share: true
 
   - name: Facebook
     icon: facebook
