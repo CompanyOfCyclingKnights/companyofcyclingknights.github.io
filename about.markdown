@@ -120,7 +120,7 @@ Star sign: Leo<br />
 Bike: Bianchi<br />
 Groupo/Wheels: Campagnolo<br />
 
-Raconteur, man about town and one time Tour de France martial, Sean has spent the last few years fashioning his hair in the style of the late Marco Pantani in an attempt to improve his climbing ability.
+Raconteur, man about town and one time Tour de France race marshal, Sean has spent the last few years fashioning his hair in the style of the late Marco Pantani in an attempt to improve his climbing ability.
 
 A native of Ipswich, when not cycling or thinking about cycling Sean likes to take long walks across the beach with his sweetheart Jennie.
 
