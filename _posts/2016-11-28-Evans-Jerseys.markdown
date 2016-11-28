@@ -16,5 +16,5 @@ Wharf branch.](https://www.evanscycles.com/store/canarywharf)
 <img src="/assets/EvansSponsorshipJersey.jpeg"
 alt="Dave presenting Nigel with the groups sponsored jerseys" />
 
-The help of sponsors like Evans makes all the difference and we're
+Sponsors like Evans make all the difference.  We're really
 grateful for all their help.
