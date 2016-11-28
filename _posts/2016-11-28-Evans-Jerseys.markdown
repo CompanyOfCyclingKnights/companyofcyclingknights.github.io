@@ -5,12 +5,13 @@ date:   2016-11-28 08:10:00
 author: Sean
 categories: Sponsors
 tags: evans sponsors
-cover:  "/assets/Bath,_Somerset_Panorama_-_April_2011.png"
+cover:  "/assets/Thomson_Reuters_Building_Canary_Wharf.jpg"
 ---
 
 Evans have done us proud with new jerseys for the group.
 
-Here's Nigel picking them up from Store Manager Dave at their Canary Wharf branch.
+Here's Nigel picking them up from Store Manager Dave at their [Canary
+Wharf branch.](https://www.evanscycles.com/store/canarywharf)
 
 <img src="/assets/EvansSponsorshipJersey.jpeg"
 alt="Dave presenting Nigel with the groups sponsored jerseys" />

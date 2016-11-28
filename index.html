@@ -15,12 +15,12 @@ layout: default
 <div class="section">
   <div class="wrapper home route">
     <h2>Route</h2>
-    {% for post in site.categories.Route reversed %}
+    {% for route in site.categories.Route reversed %}
       <li>
         <strong class='route-title'>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ route.url | prepend: site.baseurl }}">{{ route.title }}</a>
         </strong>
-        <span class='meta'>Distance: {{post.distance}}. Elevation: {{ post.elevation }}</span>
+        <span class='meta'>Distance: {{route.distance}}. Elevation: {{ route.elevation }}</span>
       </li>
     {% endfor %}
     </ul>
@@ -144,42 +144,40 @@ layout: default
 <div class="section ">
 	<div class="wrapper home">
 		<h2>Blog</h2>
-        <h4>20th Nov 2016: November training ride</h4>
-        <p>
-          We covered 70 miles of Essex countryside on Sunday, much of it in the rain. Below you
-          can see the route in all its glory thanks to relive.cc.
-        </p>
-        <video style="width: 48em" controls src="https://storage.sbg1.cloud.ovh.net/v1/AUTH_297cdb44e582481d87a484aafab89eae/skyhawk-videos/781259027_1479682663122.mp4?x-ref=site">
-        </video>
 		<ul class="post-list">
-			{% for post in paginator.posts %}
-			{% if post.categories[0] != "Route" %}
-			<li>
-				<!--     <section class="post-excerpt" itemprop="description">
-					<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-				</section> -->
-				<!-- <section class="post-meta">
-					<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-					<div class="post-categories">
-						{% if post.categories.size > 0 %}in {% for cat in post.categories %}
-						{% if site.jekyll-archives %}
-						<a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-						{% else %}
-						<span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
-						{% endif %}
-						{% endfor %}{% endif %}
-					</div>
-				</section> -->
-			</li>
-			{% if forloop.last == false %}
-			<hr>
-			{% endif %}
-			{% endif %}
-			{% endfor %}
-		</ul>
+  {% for post in paginator.posts %}
+    {% comment %} Is this really the recommended way to filter things in Liquid? Yuk! {% endcomment %}
+    {% if post.categories[0] == "Route" %}
+    {% else if %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <section class="post-excerpt" itemprop="description">
+        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      </section>
+      <section class="post-meta">
+        <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+        <div class="post-categories">
+          {% if post.categories.size > 0 %}in {% for cat in post.categories %}
+          {% if site.jekyll-archives %}
+          <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+          {% else %}
+          <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
+          {% endif %}
+          {% endfor %}{% endif %}
+        </div>
+      </section>
+    </li>
+    <hr>
+    {% endif %}
+  {% if forloop.last == false %}
+  {% endif %}
+  {% endfor %}
+</ul>
 
-		<a class='center' href="/blog/">View full blog</a>
-	</div>
+<a class='center' href="/blog/">View full blog</a>
+  </div>
 </div>
 
 </div>
