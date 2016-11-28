@@ -12,6 +12,8 @@ We are 8 cyclists and 1 driver. Get to know the team below.
 
 <br/>
 
+<a name="nigel"></a>
+
 ## Nigel
 
 <img src="/assets/team/nigel.png" class="person">
@@ -32,6 +34,7 @@ I recently joined Ipswich bike club and regularly go out on a Saturday averaging
 
 <br/>
 
+<a name="dave"></a>
 
 ## Dave
 
@@ -48,6 +51,7 @@ Despite the early morning rides, the hills and more hills I have really enjoyed 
 <br/>
 
 
+<a name="steve"></a>
 
 ## Steve
 
@@ -61,6 +65,9 @@ I live in Ipswich with my wife and son. I drink a lot of peppermint tea and eat 
 My current winter training regime for JOGLE is a bit adhoc. I try to do 1 or 2 spin classes at the gym each week. I like being shouted at whilst listening to Little Mix. I try and brave the cold with a mid week ride with the boys and a Saturday morning club ride when I can make it. But to be honest I’m a fair weather cyclist so not a big fan of winter training.
 
 <br/>
+
+
+<a name="keith"></a>
 
 ## Keith
 
@@ -82,6 +89,8 @@ When you see the kids achieve a task, the beaming smiles on their faces is more 
 
 <br/>
 
+<a name="mike"></a>
+
 ## Mike
 
 <img src="/assets/team/mike.png" class="person">
@@ -100,6 +109,8 @@ I would like to thanks Jo and Lily in advance both for allowing me to slip away 
 
 <br/>
 
+<a name="sean"></a>
+
 ## Seán
 
 <img src="/assets/team/sean.jpg" class="person" />
@@ -113,5 +124,8 @@ Raconteur, man about town and one time Tour de France martial, Sean has spent th
 
 A native of Ipswich, when not cycling or thinking about cycling Sean likes to take long walks across the beach with his sweetheart Jennie.
 
-Former member of parliament for the borough of [Old Sarum](https://en.wikipedia.org/wiki/Old_Sarum_(UK_Parliament_constituency)), Sean has been accused of illeism and embellishing his profile.  Accusations he refutes.
+Former member of parliament for the borough of [Old
+Sarum](https://en.wikipedia.org/wiki/Old_Sarum_(UK_Parliament_constituency)),
+Sean has been accused of
+[illeism](https://en.wikipedia.org/wiki/Illeism) and "embellishing" his profile.  Accusations he refutes.
 
