@@ -71,9 +71,12 @@ ul.default {
   }
 }
 
-.badges.people{
+ul.badges.people{
+  margin: 15px auto;
+  padding: 0;
+  max-width: 550px;
   li{
-    padding: 6px;
+    padding: 0px 6px;
     img{
       width: 80px;
       border-radius: 40px;

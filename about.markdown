@@ -12,7 +12,7 @@ We are 8 cyclists and 1 driver. Get to know the team below.
 
 <br/>
 
-### Nigel
+## Nigel
 
 <img src="/assets/team/nigel.png" class="person">
 
@@ -33,7 +33,7 @@ I recently joined Ipswich bike club and regularly go out on a Saturday averaging
 <br/>
 
 
-### Dave
+## Dave
 
 <img src="/assets/team/dave.png" class="person">
 
@@ -49,7 +49,7 @@ Despite the early morning rides, the hills and more hills I have really enjoyed 
 
 
 
-### Steve
+## Steve
 
 <img src="/assets/team/steve.png" class="person">
 
@@ -60,6 +60,45 @@ I live in Ipswich with my wife and son. I drink a lot of peppermint tea and eat 
 
 My current winter training regime for JOGLE is a bit adhoc. I try to do 1 or 2 spin classes at the gym each week. I like being shouted at whilst listening to Little Mix. I try and brave the cold with a mid week ride with the boys and a Saturday morning club ride when I can make it. But to be honest I’m a fair weather cyclist so not a big fan of winter training.
 
+<br/>
+
+## Keith
+
+<img src="/assets/team/kieth.png" class="person">
+
+Keith (Chappers) Chapman<br/>
+Age 55<br/>
+The Driver
+
+Not one for cycling (unless it has an engine) physical disabilities won’t allow me to do either now. Being able to take part in this project without having to ride it is a bonus.
+
+I am First Lieutenant at Chelmsford Sea Cadets. and am engaged to Ruth and due to marry in 2018. At the sea cadets I teach navigation, boating, and other life skills to our young people.
+
+I’m an ex long distance lorry driver so doing the distance to me will be like taking a busman’s holiday, I am honoured to be able to take part in some way in this challenge.
+
+We all volunteer for different reasons, for me it is watching the kids learn and become Confident young people.
+
+When you see the kids achieve a task, the beaming smiles on their faces is more than enough payment.
+
+<br/>
+
+## Mike
+
+<img src="/assets/team/mike.png" class="person">
+
+So there was I minding my own business, juggling various balls at work when Bill appeared and and started to wax lyrical about his next venture - the "JOGLE" cycle ride. He must have caught me at a point of extreme weakness. That or the fact that I was fast approaching a mid life crisis and on the cusp of my 50th. 20 mins later he had me signed up to the 12 day, 1200 mile enduro.
+
+I like to think that when I commit to something, I stand a fair chance of succeeding.
+
+I am not a member of any cycle club but have done a few longish distance rides and other events before, but nothing quite on this scale. A few months on from that first, impromptu discussion with Bill and the regular gym and fitness sessions and occasional long rides have got me into a training rhythmn that will hopefully edge me nearer to the fitness required for next May.
+
+We will certainly need to get our heads down and grind out the miles. In addition to the sense of achievement we will feel when we hit the Cornish coast, I am really looking forward to the company of my fellow riders and the opportunity to raise a few pounds for great causes.
+
+I hope I get a chance to see and experience the scenery that the route will offer. It certainly looks beautiful on the internet...
+
+I would like to thanks Jo and Lily in advance both for allowing me to slip away for this adventure and for enduring the sight of a rather large man in Lycra without passing on too many comments.
+
+<br/>
 
 
 
