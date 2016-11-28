@@ -100,6 +100,18 @@ I would like to thanks Jo and Lily in advance both for allowing me to slip away 
 
 <br/>
 
+## Seán
 
+<img src="/assets/team/sean.jpg" class="person" />
 
+Eyes: Brown<br />
+Star sign: Leo<br />
+Bike: Bianchi<br />
+Groupo/Wheels: Campagnolo<br />
+
+Raconteur, man about town and one time Tour de France martial, Sean has spent the last few years fashioning his hair in the style of the late Marco Pantani in an attempt to improve his climbing ability.
+
+A native of Ipswich, when not cycling or thinking about cycling Sean likes to take long walks across the beach with his sweetheart Jennie.
+
+Former member of parliament for the borough of [Old Sarum](https://en.wikipedia.org/wiki/Old_Sarum_(UK_Parliament_constituency)), Sean has been accused of illeism and embellishing his profile.  Accusations he refutes.
 
