@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 6 - Whitby to Lincoln"
 date:   2016-09-03 08:10:00
-author: Sean
+author: Chris
 categories: Route
 tags:	route strava
 distance: 116.7mi
@@ -10,11 +10,19 @@ elevation: 3,159ft
 cover:  "/assets/lincoln_cathedral.png"
 ---
 
-Day 5, to Lincoln
+<div class="key-stats">
+  <strong>Day 6 in numbers - </strong> Distance: 116.7mi, Elevation: 3,159ft, Estimated moving time: 8.5hrs
+</div>
 
-Can't visit Lincoln without going up Steep Hill.
+As the sun rises at the start of day, it dawns upon us (no pun intended) that we have reached day 6 which in itself is quite an achievement if Bram Stoker is to be believed. Nothing to do with the previous 5 days cycling ...... just having spent the night within a flap of a vampires wing of the Gothic Whitby Abbey. All survived thanks to benevolence of some almighty deity, a consecrated cross and several cloves of garlic that I just happened to have in my back pocket for such an occurrence. With the long hours of darkness in Count Dracula's English seaside retreat behind us, lying in front will be a more benign, less terrifying (I naively hope) 116 miles of which nearly all is due south.
 
-Below you should find a VeloViewer of the day's ride (sometimes takes a
-few seconds to load):-
+The first climb of the day quickly reveals itself within a few hundred yards but the reality is that it can't even be described as an aperitif for the main course of the morning .... the North Yorkshire moors. It's one of several UK national parks and starting forming 200 million years ago which coincidently feels like the same amount of time I was married for and  oddly enough she had a face like early Jurassic granite a lot of the time too !!!
+
+Sadly my experience of this type of cycling trip tells me apart from the 5 meters of tarmac in front of me, I won't see too much of the expansive moorland , varied wildlife or glacial formations but the North Yorkshire tourist board impartially tell me it's a wonderful place but  I'll just have look forward to not seeing most of it although I'm told the composition of the local tarmac is considered a modern miracle in road construction circles.
+It starts in earnest at Sleights (pronounced slights apperently ) less that 4 miles south west of Whitby . I'm told it has two pubs, the Salmon Leap and the Lough Inn but it will probably be too early to visit them.
+
+Heading due south over the River Esk we start a steady climb. At about 15 k we hit White Way Heads, a grade 4 ( oh how I love a hill !!) . Actually after cycling over the Cairngorms on day two, we could probably complete this section whilst enjoying the spectacular views ! .....or maybe it will break us . Its likely to be our toughest challenge of the day in terms of gradient and comforted by the knowledge (I will be at least)  that with a couple of exceptions it's mostly downhill for the rest of the day. We continue turning south west for several kms along the A169 enjoying the gentle descent eventually getting to Pickering.
+
+Pickering is a small market town about 50m about sea level which means all the morning climbing has mostly been lost. I am told the North Yorkshire moors railway  and Beck Isle Museum are worth visiting and that maybe true but no insult intended we don't be stopping (circumstances dictate) and will be pressing ahead to Malton. As every scientist knows, the  laws of gravity dictate "what goes up must come down"  and as every cyclist quickly learns , " what goes down must go up !" And so be Pickering to Malton which lies on the southern edge of the moors. Passing through Malton ,which I discovered is known as the food capital of Yorkshire  and being shadowed by the River Derwent to our south and east . Soon crossing the Derwent . By now we have our highest and hardest challenges of the day behind us, just one ahead ,  a flat(ish) 100km dash down Easy street to Lincoln . As the day draws to an end seeing Lincoln , a cathedral city, coming into view will briefly raise morale of even the weariest of us cyclists. Lincoln a Viking settlement , a centre for 13th century wool trade, a testing ground for WW1 tanks. Then it hits like a Mike Tyson left hook.... Lincoln's built on a hill !!!  Oh well here we go again.  Last one in bar gets the first round.
 
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937586/embed2" frameborder="0" scrolling="no"></iframe>
