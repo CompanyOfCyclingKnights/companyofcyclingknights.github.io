@@ -2,9 +2,9 @@
 layout: post
 title:  "Day 2 - Tain to Ballater"
 date:   2016-09-03 08:10:00
-author: Sean
+author: Baggy
 categories: Route
-tags:	route strava
+tags: route strava
 distance: 125mi
 elevation: 7,035ft
 cover:  "/assets/glenmorangie.png"
