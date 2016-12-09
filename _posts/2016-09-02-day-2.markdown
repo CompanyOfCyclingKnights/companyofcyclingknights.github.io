@@ -10,7 +10,11 @@ elevation: 7,035ft
 cover:  "/assets/glenmorangie.png"
 ---
 
-Day 2, Riding into it.
+<div class="key-stats">
+  <strong>Day 2 in numbers - </strong> Distance: 125mi, Elevation: 7,035ft
+</div>
+
+Day 2, the longest day with the most climbing.
 
 It's going to very picturesque which is just another way of saying
 steep! :)
