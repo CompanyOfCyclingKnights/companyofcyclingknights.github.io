@@ -25,7 +25,7 @@ layout: default
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
       <section class="post-excerpt" itemprop="description">
-        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+        <p>{{ post.content | strip_html | truncatewords: 16 }}</p>
       </section>
       <section class="post-meta">
         <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
@@ -54,9 +54,6 @@ layout: default
 <div class="section">
   <div class="wrapper home sponsors">
     <h2>Sponsors</h2>
-    <p class="center">
-      A big thanks to our sponsors for all their support!
-    </p>
     <ul class='badges'>
       <li>
         <a href="https://group.canarywharf.com">
@@ -94,6 +91,9 @@ layout: default
         </a>
       </li>
     </ul>
+    <p class="center">
+      A big thanks to our kind sponsors for all their support!
+    </p>
   </div>
 </div>
 
@@ -101,7 +101,7 @@ layout: default
   <div class="wrapper home charities">
     <h2>Charities</h2>
     <p class="center">
-      These are our three nominated charities.
+      Our three nominated charities.
     </p>
     <ul class='badges charities'>
       <li>
@@ -109,43 +109,43 @@ layout: default
           <img src="https://whitechapel.org.uk/themes/poppy/img/logo.png">
         </a>
         <a href="https://www.justgiving.com/crowdfunding/companyofcyclingknights">Just Giving</a>
-        </li>
-        <li>
+      </li>
+      <li>
         <a href="http://www.sea-cadets.org/chelmsford/home.aspx">
           <img src="/assets/Upholder_crest2.gif">
         </a>
         <a href="https://www.justgiving.com/crowdfunding/companyofcyclingknights2">Just Giving</a>
       </li>
-			<li>
-				<a href="http://www.nosecondnightout.org.uk/">
-					<img src="/assets/black_logos2.png">
-				</a>
-       <a href="https://www.justgiving.com/crowdfunding/companyofcyclingknights3">Just Giving</a>
-			</li>
-		</ul>
-	</div>
+      <li>
+        <a href="http://www.nosecondnightout.org.uk/">
+          <img src="/assets/black_logos2.png">
+        </a>
+        <a href="https://www.justgiving.com/crowdfunding/companyofcyclingknights3">Just Giving</a>
+      </li>
+    </ul>
+  </div>
 </div>
 
 <div class="section">
   <div class="wrapper home route">
     <h2>Route</h2>
     {% for route in site.categories.Route reversed %}
-      <li>
-        <strong class='route-title'>
-          <a href="{{ route.url | prepend: site.baseurl }}">{{ route.title }}</a>
-        </strong>
-        <span class='meta'>Distance: {{route.distance}}. Elevation: {{ route.elevation }}</span>
-      </li>
+    <li>
+      <strong class='route-title'>
+        <a href="{{ route.url | prepend: site.baseurl }}">{{ route.title }}</a>
+      </strong>
+      <span class='meta'>Distance: {{route.distance}}. Elevation: {{ route.elevation }}</span>
+    </li>
     {% endfor %}
-    </ul>
-    {% if forloop.last == false %}<hr>{% endif %}
-    <br/>
-  </div>
+  </ul>
+  {% if forloop.last == false %}<hr>{% endif %}
+  <br/>
+</div>
 </div>
 
 <div class="section dark ">
-	<div class="wrapper home">
-		<h2>Meet the Team</h2>
+  <div class="wrapper home">
+    <h2>Meet the Team</h2>
     <p class="center">
       We are 8 cyclists and 1 driver.
     </p>
@@ -154,7 +154,7 @@ layout: default
         <a class='center' href="/about#chris">
           <img src="/assets/team/chris.png">
         </a>
-      </li><li>
+        </li><li>
         <a class='center' href="/about#dave">
           <img src="/assets/team/dave.png">
         </a>
@@ -163,7 +163,7 @@ layout: default
         <a class='center' href="/about#haggis">
           <img src="/assets/team/haggis.png">
         </a>
-       </li>
+      </li>
       <li>
         <a class='center' href="/about#keith">
           <img src="/assets/team/kieth.png">
@@ -195,8 +195,8 @@ layout: default
         </a>
       </li>
     </ul>
-		<a class='center' href="/about/">Find out more</a>
-	</div>
+    <a class='center' href="/about/">Find out more</a>
+  </div>
 </div>
 
 </div>

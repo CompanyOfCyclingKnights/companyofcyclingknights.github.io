@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evans cycles gets behind JOGLE and its great causes"
+title:  "Evans cycles gets behind us"
 date:   2016-11-28 08:10:00
 author: Sean
 categories: Sponsors
