@@ -151,7 +151,7 @@ Keeps mileage up by commuting most days.
 
 <img src="/assets/team/sean.jpg" class="person" />
 
-Eyes: Brown<br />
+Eyes: Greeny Brown<br />
 Star sign: Leo<br />
 Bike: Bianchi<br />
 Groupo/Wheelset: Campagnolo<br />
@@ -161,8 +161,8 @@ Raconteur, man about town and one time Tour de France race marshal, Sean has spe
 A native of Ipswich, when not cycling, watching cycling or thinking
 about watching cycling, Sean likes to take long walks across the beach with his sweetheart Jennie.
 
-Former member of parliament for the borough of [Old
+Former member of parliament for the rotten borough of [Old
 Sarum](https://en.wikipedia.org/wiki/Old_Sarum_(UK_Parliament_constituency)),
 Sean has been accused of
-[illeism](https://en.wikipedia.org/wiki/Illeism) and "embellishing" his profile.  Accusations he refutes.
+[illeism](https://en.wikipedia.org/wiki/Illeism) and of *"embellishing"* his profile.  Accusations he refutes.
 
