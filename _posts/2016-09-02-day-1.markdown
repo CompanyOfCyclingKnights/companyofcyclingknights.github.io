@@ -1,19 +1,15 @@
 ---
-layout: post
+layout: route
 title:  "Day 1 - John O'Groats to Tain"
 date:   2016-09-03 08:10:00
+day: 1
 author: Steve
 categories: Route
 tags:	route strava
-distance: 86.3mi
-elevation: 3,869ft
+distance: 86mi (138Km)
+elevation: 3,869ft (1,179m)
 cover:  "/assets/johnogroatssign.png"
 ---
-
-<div class="key-stats">
-  <strong>Day 1 in numbers - </strong> Distance: 86.3mi, Elevation: 3,869ft, Estimated moving time: 6.5hrs
-</div>
-
 
 Day 1 is set to be one of the more gentle and picturesque days of the adventure. However after a long day
 of travelling all the way from Essex to John O'groat the previous day there are likely to be some stiff legs from

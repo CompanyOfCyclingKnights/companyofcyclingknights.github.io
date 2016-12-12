@@ -1,18 +1,15 @@
 ---
-layout: post
+layout: route
 title:  "Day 3 - Ballater to Kirkcaldy"
 date:   2016-09-03 08:10:00
+day: 3
 author: Baggy
 categories: Route
 tags: route strava
-distance: 100.9mil
-elevation: 5,515ft
+distance: 100.9mil (162Km)
+elevation: 5,515ft (1,680m)
 cover:  "/assets/Keswick_Panorama_Oct_2009.jpg"
 ---
-
-<div class="key-stats">
-  <strong>Day 3 in numbers - </strong> Distance: 100.9mi, Elevation: 5,515ft, Estimated moving time: 8hrs
-</div>
 
 Day three and we continue our adventure through the beautiful Cairn Gorms National Park from Ballater to Kirkcaldy - Distance: 100.9mil. Elevation: 5,515ft. The first 40K is all uphill!
 

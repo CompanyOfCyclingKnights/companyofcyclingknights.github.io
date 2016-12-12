@@ -1,25 +1,42 @@
 ---
-layout: post
+layout: route
 title:  "Day 2 - Tain to Ballater"
 date:   2016-09-03 08:10:00
+day: 2
 author: Baggy
 categories: Route
 tags: route strava
-distance: 125mi
-elevation: 7,035ft
+distance: 125mi (201Km)
+elevation: 7,035ft (2144m)
 cover:  "/assets/glenmorangie.png"
 ---
 
-<div class="key-stats">
-  <strong>Day 2 in numbers - </strong> Distance: 125mi, Elevation: 7,035ft
-</div>
-
-Day 2, the longest day with the most climbing.
-
-It's going to very picturesque which is just another way of saying
-steep! :)
-
-Below you should find a VeloViewer of the day's ride (sometimes takes a
-few seconds to load):-
+After a good night's rest, we tackle the dreaded day two - climbing up some of the highest and steepest roads in Britain. We all started off as friends and hopefully we will still be talking at the end of day two!
 
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6928265/embed2" frameborder="0" scrolling="no"></iframe>
+
+Tain was granted its first royal charter in 1066, making it Scotland's oldest Royal Burgh, commemorated in 1966 with the opening of the Rose Garden by Queen Elizabeth, the Queen Mother. We leave early morning, fuelled and hydrated - thanks Sainsbury's! 
+
+Our route takes us South out of Tain uphill for about 4k along the Scotsburn Road before going generally downhill through Invergordan taking in the Eastern Highlands. The first 80 Km are fairly flat until we arrive at Inverness with the stunning castle on the banks of the river.
+
+Inverness is generally accepted as the capital of the Highlands and means  'Mouth of the River Ness' . Unfortunately shortly after, we discover 'The Monster'... of a climb, about 8km boasting a maximum gradient of 34%. It's at this point whilst writing this that I am considering my options... perhaps altering the route without the others knowing! 
+
+Apart from a brief couple of km downhill along the A9, the next 20km take us up to Slochd summit at 1,328 feet (405 m) and a grand entrance into the Cairngorms National Park on the B9154. Along way we pass Loch Moy. where Moy Castle, the original seat of the chiefs of Clan Mackintosh was placed on an island in the loch. 
+
+Sadly, without stopping, we cycle past the Tomatin Distillery Company. Although it is thought that whisky has been distilled on the site since the 16th century, the distillery was not established until 1897, under the name of Tomatin Spey Distillery Co Ltd. The company went bankrupt in 1906, and reopened under new ownership in 1909. After the liquidation of its owners in 1986, it was taken over by Japanese conglomerate Takara Shuzo and was renamed Tomatin Distillery Co Ltd. Around eighty percent of Tomatin's whisky goes into blended whisky, including its own brands of Antiquary and Talisman. The recently, the distillery has begun to produce a lightly peated single malt called Cu Bocan which is produced 1 week a year at the distillery. Some would say I have dwelled on the distillery too long - I would say draw your own conclusions!
+
+We follow the A938 to Carrbridge where we cross the River Dulnain. Carrbridge's most famous landmark is the old packhorse bridge, from which the village is named. The bridge, built in 1717, is the oldest stone bridge in the Highlands. The general trend is downhill for about 20km along the A95 and then on the B970 into Nethy Bridge where we cross the River Spey which is one of Scotland’s foremost salmon rivers. It’s the bridge that gave the village its name.
+
+We then start the climb where it peaks at the A939 The Old Military Road at 1300ft (400m). Taking in the most spectacular scenery we descend before another climb - distance 8km. 
+
+With 41Km to go we start the most challenging climb of the day -  a 13km slog to the Lecht Ski School at a height of 2100ft (650m). After a very brief stop for a photo opportunity (And possibly to catch our breath...) We then descend rather sharply, where the Company of Cycling Knights will pay homage to Cock Bridge - which is situated on the A939 highway which is known as one of the most beautiful stretches of road in Scotland.
+
+The final climb of the day sees us to an altitude of 1600ft (500m). The last 14km take us down to Ballater where I suspect the odd refreshment may be taken!
+
+The climbs on day two promise to be a real challenge for the Knights. The spectacular scenery should help to get us through the day.
+
+Hopefully we will still be friends after this one!
+
+
+
+

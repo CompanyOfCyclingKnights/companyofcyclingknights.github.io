@@ -1,16 +1,15 @@
 ---
-layout: post
+layout: route
 title:  "Day 9 - Swindon to Taunton"
 date:   2016-09-03 08:10:00
+day: 9
 author: Sean
 categories: Route
-tags:	route strava
-elevation: 3,406ft
-distance: 94.6mi
+tags: route strava
+elevation: 3,822ft (1,615m)
+distance: 111.8mi (180Km)
 cover:  "/assets/Bath,_Somerset_Panorama_-_April_2011.png"
 ---
-
-
 
 Below you should find a VeloViewer of the day's ride (sometimes takes a
 few seconds to load):-

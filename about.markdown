@@ -34,6 +34,27 @@ I recently joined Ipswich bike club and regularly go out on a Saturday averaging
 
 <br/>
 
+<a name="baggy"></a>
+
+## Baggy
+
+<img src="/assets/team/baggy.jpg" class="person" />
+
+Age: 21 *(Lying)*  
+Height: F600 *(Lying)*  
+Weight: 13stone *(Whopper of a lie)*  
+Bike: Raleigh Trendsetter, 3 speed Sturmey Archer gears. Pink. *(All true)*
+
+I made that fatal Friday mistake over a few beers when my ego got the better of me... I mentioned to Bill that I'd always fancied doing the JOGLE. By Monday Bill had organised 75% of the trip, leaving me with zero wriggle room!
+
+I'm originally from Yorkshire and always enjoyed cycling and most sports.  Moved to London in 1988. Love the odd 'proper' beer - so miss Yorkshire badly!
+
+I'm well into the winter training, which consists of morning gym sessions and the odd dalliance on the bike at weekends! I suspect that the three club cyclists (Bill, Sean and Steve) will be the glue that holds us together - particularly over the Cairngorms.
+
+To be able to raise money for these fantastic charities is a privilege.  The people who run these organisations are truly remarkable.
+
+<br />
+
 <a name="dave"></a>
 
 ## Dave
@@ -42,7 +63,7 @@ I recently joined Ipswich bike club and regularly go out on a Saturday averaging
 
 Having done a few endurance events in the past I was looking for something else to challenge myself. I tried to enter the London Marathon a few times, but failed to successfully obtain a place in the ballot. But when it comes to running, I perhaps have to admit that I don't really have the legs to do it.
 
-Ive always enjoyed riding, often out with family on a few leisure rides and the odd commute to work. So when I was asked if would consider joining up to do the John O Groats to Lands End…I quite surprised myself by saying yes.
+Ive always enjoyed riding, often out with family on a few leisure rides and the odd commute to work. So when I was asked if would consider joining up to do the John O'Groats to Lands End…I quite surprised myself by saying yes.
 
 Despite the early morning rides, the hills and more hills I have really enjoyed the time in the saddle. The peace and quiet is a big draw, but not to sure how much of that will be present on the ride…!
 
@@ -164,5 +185,6 @@ about watching cycling, Sean likes to take long walks across the beach with his 
 Former member of parliament for the rotten borough of [Old
 Sarum](https://en.wikipedia.org/wiki/Old_Sarum_(UK_Parliament_constituency)),
 Sean has been accused of
-[illeism](https://en.wikipedia.org/wiki/Illeism) and of *"embellishing"* his profile.  Accusations he refutes.
+[illeism](https://en.wikipedia.org/wiki/Illeism) and of
+[*"embellishing"*](https://en.wikipedia.org/wiki/Terminological_inexactitude) his profile.  Accusations he refutes.
 

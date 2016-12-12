@@ -1,17 +1,36 @@
 ---
-layout: post
+layout: route
 title:  "Day 8 - Milton Keynes to Swindon"
 date:   2016-09-03 08:10:00
-author: Sean
+day: 8
+author: Mike
 categories: Route
 tags: route strava
-distance: 75.8mi
-elevation: 2,197ft
+distance: 75.8mi (120Km)
+elevation: 2,197ft (670m)
 cover:  "/assets/Magic_Roundabout_Schild_db.png"
 ---
 
 
-Below you should find a VeloViewer of the day's ride (sometimes takes a
-few seconds to load):-
+“We can only see a short distance ahead, but we can see plenty there that needs to be done.”- Alan Turing.
+
+In Tour De France parlance this could be politely described as a “transition” day - the lone breakaway rider setting off on a pointless crusade to get his sponsors jersey on the TV, only to be swept up within 100 metres of the finish line by the peloton and some muscled sprinter who steals his glory and gets the kisses from the podium girls.
 
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937658/embed2" frameborder="0" scrolling="no"></iframe>
+
+This day is shorter on miles and shorter in terms of hills, as we carve out a route between the Cotswolds and the Chilterns. This is all relative however and comes after 7 long days in the saddle.it certainly won’t feel like a rest day as there is plenty of work to be done. 
+
+Our riders depart Milton Keynes. In the 1960s, the British government decided that a further generation of new towns in the south-east of England was needed. Since the 1950s, overspill housing for several London boroughs had been constructed in Bletchley. Further studies in the 60s identified north Buckinghamshire as a possible site for a large new town, encompassing the existing towns of Bletchley, Stony Stratford and Wolverton. The new town was to be the biggest yet, with a target population of 250,000 (and 20 million trees). The name "Milton Keynes" was taken from the existing village on the site.
+
+Heading south-west-ish the first place of interest is Bletchley. Infinitely more famous than its younger overbearing cousin, Milton Keynes, Bletchley Park is the site of World War II British code-breaking (Alan Turing et al) and Colossus, the world's first programmable electronic digital computer, both major components of MK's modern history.
+
+Leaving Bletchley behind, the team continue south-west, skirting around the south of the university town of oxford. We pass through Cowley, former home of British Leyland (now a BMW plant), then follow along the Thames Valley towards Abingdon. Continuing the car theme, this was the home of MG until its closure in 1980. Other notable former residents include (eternally cheery boy-band) Radiohead and David Mitchell of Mitchell & Webb fame.
+
+A long-standing tradition of the town has local dignitaries throwing buns from the roof of the Abingdon County Hall Museum for crowds assembled in the market square on specific days of celebration (such as royal marriages etc). The museum has a collection of the buns, dried and varnished, dating back to bun “throwings” of the 19th century. Probably best to keep an eye on Mike and Fitz who like a bun or two!
+
+The ride then continues parallel to The Ridgeway through picturesque villages and the Royal Military College of Science at Shrivenham to Swindon where another day in the saddle ends.
+
+Swindon is an industrial town, most famous for the railway, courtesy of Isambard Kingdom Brunel (now that’s a proper name) but maybe more so nowadays as the home of Honda’s UK factory. The town has many famous sons and daughters including James Bond creator, Ian Fleming and fellow explorer, David Hempleman–Adams.
+
+So a day of Britain’s automotive and engineering history. Perhaps a sign of the times but we’re riding bikes from Italy, Belgium, USA and Taiwan!
+

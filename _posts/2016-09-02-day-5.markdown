@@ -1,18 +1,15 @@
 ---
-layout: post
+layout: route
 title:  "Day 5 - Alnwick to Whitby"
 date:   2016-09-03 08:10:00
+day: 5
 author: Sean
 categories: Route
 tags:	route strava
-distance: 115.7mi
-elevation: 4,172ft
+distance: 115.7mi (186Km)
+elevation: 4,172ft (1,271m)
 cover:  "/assets/St_Marys_Church_and_Whitby_Abbey_by_Night.png"
 ---
-
-<div class="key-stats">
-  <strong>Day 5 in numbers - </strong> Distance: 115.7mi, Elevation: 4,172ft, Estimated moving time: 9hrs
-</div>
 
 Soooo many miles to go, but at least we are now into England and the supposed flat section of the ride, or so I am told. We say goodbye to Alnwick, described as a small market town in Northumberland the population for the day will increase by 8 very hungry cyclists of varying ages…and hopefully by now very understanding van driver. If he has not had enough of us, the moaning, groaning and being the shoulder to cry on following the bumpy ride through Scotland.
 
