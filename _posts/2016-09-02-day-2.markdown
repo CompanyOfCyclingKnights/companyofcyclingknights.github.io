@@ -7,7 +7,7 @@ author: Baggy
 categories: Route
 tags: route strava
 distance: 125mi (201Km)
-elevation: 7,035ft (2144m)
+elevation: 7,035ft (2,144m)
 cover:  "/assets/glenmorangie.png"
 ---
 
