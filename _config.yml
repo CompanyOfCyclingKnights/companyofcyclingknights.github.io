@@ -19,7 +19,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://companyofcyclingknights.github.io" # the base hostname & protocol for your site
 cover: "/assets/Lands_End_Cornwall_England.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/jogle-logo.png"
 
 # Build settings
 markdown: kramdown
