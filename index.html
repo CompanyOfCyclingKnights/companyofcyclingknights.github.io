@@ -16,10 +16,8 @@ layout: default
 	<div class="wrapper home">
 		<h2>Blog</h2>
 		<ul class="post-list">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts limit:4 %}
     {% comment %} Is this really the recommended way to filter things in Liquid? Yuk! {% endcomment %}
-    {% if post.categories[0] == "Route" %}
-    {% else if %}
     <li>
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -41,7 +39,6 @@ layout: default
       </section>
     </li>
     <hr>
-    {% endif %}
   {% if forloop.last == false %}
   {% endif %}
   {% endfor %}
