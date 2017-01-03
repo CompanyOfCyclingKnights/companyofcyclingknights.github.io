@@ -40,7 +40,7 @@ Each flying lap starts with a warm up lap allowing the use of the banking to acc
 Though many political commentators have been surprised he wasn't included in the New Year's Honours list Baggy was, never the less, the recorder of the fastest flying lap time by a member of the Cycling Knights ever!
 <img src="/assets/velodrome-28-12-2016/DSC_1842.jpg" />
 
-As magnanimous in victory as he is graceful around the boards, like a latter day Chris Hoy, Baggy has so far refused all _loud_ calls for a rematch on the grounds of "how can top perfection".
+As magnanimous in victory as he is graceful around the boards, like a latter day Chris Hoy, Baggy has so far refused all _loud_ calls for a rematch on the grounds of "how can you top perfection".
 <img src="/assets/velodrome-28-12-2016/DSC_1843.jpg" />
 
 We'd like to thank our partners and families without who's patience these greatest of sporting achievements would not be possible
