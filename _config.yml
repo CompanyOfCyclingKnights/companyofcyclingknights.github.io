@@ -17,7 +17,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://companyofcyclingknights.github.io" # the base hostname & protocol for your site
+url: "http://cyclingknights.uk" # the base hostname & protocol for your site
 cover: "/assets/Lands_End_Cornwall_England.jpg"
 logo: "/assets/jogle-logo.png"
 
