@@ -1,6 +1,6 @@
 ---
 layout: route
-title:  "Day 6 - Whitby to Lincoln"
+title:  "22-05-17: Whitby to Lincoln"
 date:   2016-09-03 08:10:00
 day: 6
 author: Chris

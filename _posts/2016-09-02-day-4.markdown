@@ -1,6 +1,6 @@
 ---
 layout: route
-title:  "Day 4 - Kirkaldy to Alnwick"
+title:  "20-05-17: Kirkaldy to Alnwick"
 date:   2016-09-03 08:10:00
 day: 4
 author: Michael

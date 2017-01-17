@@ -1,6 +1,6 @@
 ---
 layout: route
-title:  "Day 5 - Alnwick to Whitby"
+title:  "21-05-17: Alnwick to Whitby"
 date:   2016-09-03 08:10:00
 day: 5
 author: Sean

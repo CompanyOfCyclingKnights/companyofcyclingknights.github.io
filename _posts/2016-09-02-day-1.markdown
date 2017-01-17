@@ -1,6 +1,6 @@
 ---
 layout: route
-title:  "Day 1 - John O'Groats to Tain"
+title:  "17-05-17: John O'Groats to Tain"
 date:   2016-09-03 08:10:00
 day: 1
 author: Steve

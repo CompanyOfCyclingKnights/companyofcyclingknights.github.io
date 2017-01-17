@@ -1,6 +1,6 @@
 ---
 layout: route
-title:  "Day 8 - Milton Keynes to Swindon"
+title:  "24-05-17: Milton Keynes to Swindon"
 date:   2016-09-03 08:10:00
 day: 8
 author: Mike
@@ -18,7 +18,7 @@ In Tour De France parlance this could be politely described as a “transition�
 
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/6937658/embed2" frameborder="0" scrolling="no"></iframe>
 
-This day is shorter on miles and shorter in terms of hills, as we carve out a route between the Cotswolds and the Chilterns. This is all relative however and comes after 7 long days in the saddle.it certainly won’t feel like a rest day as there is plenty of work to be done. 
+This day is shorter on miles and shorter in terms of hills, as we carve out a route between the Cotswolds and the Chilterns. This is all relative however and comes after 7 long days in the saddle.it certainly won’t feel like a rest day as there is plenty of work to be done.
 
 Our riders depart Milton Keynes. In the 1960s, the British government decided that a further generation of new towns in the south-east of England was needed. Since the 1950s, overspill housing for several London boroughs had been constructed in Bletchley. Further studies in the 60s identified north Buckinghamshire as a possible site for a large new town, encompassing the existing towns of Bletchley, Stony Stratford and Wolverton. The new town was to be the biggest yet, with a target population of 250,000 (and 20 million trees). The name "Milton Keynes" was taken from the existing village on the site.
 

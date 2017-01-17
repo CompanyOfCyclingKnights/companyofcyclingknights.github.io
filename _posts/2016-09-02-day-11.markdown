@@ -1,6 +1,6 @@
 ---
 layout: route
-title:  "Day 11 - Plymouth to Lands End "
+title:  "27-05-17: Plymouth to Lands End "
 date:   2016-09-04 08:10:00
 day: 11
 author: Nigel

@@ -1,6 +1,6 @@
 ---
 layout: route
-title:  "Day 10 - Taunton to Plymouth"
+title:  "26-05-17: Taunton to Plymouth"
 date:   2016-09-04 08:10:00
 day: 10
 author: Sean

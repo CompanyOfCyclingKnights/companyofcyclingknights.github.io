@@ -1,6 +1,6 @@
 ---
 layout: route
-title:  "Day 7 - Lincoln to MIlton Keynes"
+title:  "23-05-17: Lincoln to MIlton Keynes"
 date:   2016-09-03 08:10:00
 day: 7
 author: Sean
