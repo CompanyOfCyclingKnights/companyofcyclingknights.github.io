@@ -12,39 +12,46 @@ layout: default
   </div>
 </div>
 
-<div class="section dark">
-	<div class="wrapper home">
-		<h2>Blog</h2>
-		<ul class="post-list">
-  {% for post in paginator.posts limit:4 %}
-    {% comment %} Is this really the recommended way to filter things in Liquid? Yuk! {% endcomment %}
-    <li>
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <section class="post-excerpt" itemprop="description">
-        <p>{{ post.content | strip_html | truncatewords: 16 }}</p>
-      </section>
-      <section class="post-meta">
-        <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-        <div class="post-categories">
-          {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-          {% if site.jekyll-archives %}
-          <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-          {% else %}
-          <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
-          {% endif %}
-          {% endfor %}{% endif %}
-        </div>
-      </section>
-    </li>
-    <hr>
-  {% if forloop.last == false %}
-  {% endif %}
-  {% endfor %}
-</ul>
+<div class="section">
+  <div class="wrapper home">
+    <h2>Blog</h2>
+    <ul class="post-list">
+      {% for post in paginator.posts limit:4 %}
+      {% comment %} Is this really the recommended way to filter things in Liquid? Yuk! {% endcomment %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <section class="post-excerpt" itemprop="description">
+          <p>{{ post.content | strip_html | truncatewords: 16 }}</p>
+        </section>
+        <section class="post-meta">
+          <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+          <div class="post-categories">
+            {% if post.categories.size > 0 %}in {% for cat in post.categories %}
+            {% if site.jekyll-archives %}
+            <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+            {% else %}
+            <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
+            {% endif %}
+            {% endfor %}{% endif %}
+          </div>
+        </section>
+      </li>
+      <hr>
+      {% if forloop.last == false %}
+      {% endif %}
+      {% endfor %}
+    </ul>
 
-<a class='center' href="/blog/">View full blog</a>
+    <a class='center' href="/blog/">View full blog</a>
+  </div>
+</div>
+
+<div class="section dark">
+  <div class="wrapper home center">
+    <h2>How's the training going?</h2>
+    <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/clubs/200921/latest-rides/1b25f393dcacaaaa0b32a534064a7dc1c076846f?show_rides=true'></iframe>
   </div>
 </div>
 
@@ -56,13 +63,13 @@ layout: default
         <a href="https://group.canarywharf.com">
           <img src="/assets/sponsors/cwg_logo_small.png">
         </a>
-        </li>
+      </li>
       <li>
         <a href="http://storelocator.asda.com/store/isle-of-dogs">
           <img src="/assets/sponsors/asda.png">
         </a>
-        </li>
-        <li>
+      </li>
+      <li>
         <a href="https://www.evanscycles.com">
           <img src="/assets/sponsors/evans.png">
         </a>
@@ -71,7 +78,7 @@ layout: default
         <a href="https://www.santander.co.uk/uk/index">
           <img src="/assets/sponsors/santander.png">
         </a>
-       </li>
+      </li>
       <li>
         <a href="https://stores.sainsburys.co.uk/0460/whitechapel">
           <img src="/assets/sponsors/sainsburys.png">
