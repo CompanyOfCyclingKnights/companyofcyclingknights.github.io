@@ -11,10 +11,6 @@ elevation: 7,726ft (2,355m)
 cover:  "/assets/St_Michaels_Mount_II5302_x_2982.png"
 ---
 
-<div class="key-stats">
-  <strong>Day 11 in numbers - </strong> Distance: 93.1mi, Elevation: 7,727ft, Estimated moving time: 8hrs
-</div>
-
 Our final day is set to be one of the most challenging days of all. Total elevation for our finally is over 7,700ft and a distance of 93 miles.
 
 By this stage hopefully our legs will be like granite, our bikes will still be working and the Knights will still being conversing with each other.

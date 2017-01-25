@@ -3,7 +3,7 @@ layout: route
 title:  "26-05-17: Taunton to Plymouth"
 date:   2016-09-04 08:10:00
 day: 10
-author: Sean
+author: Dave
 categories: Route
 tags:	route strava
 distance: 75.4mi (121Km)
@@ -11,12 +11,37 @@ elevation: 5,965ft (1,818m)
 cover:  "/assets/Plymouth-barracuda-1971.jpg"
 ---
 
-Oh you mean the other Plymouth?
+Nearly there, I can almost taste the Cornish pasty waiting for us at the finish line. By now the ability to eat anything and not worry about the calorific content is well and truly an experience I can get used to. Just the cycling 100 miles a day that I can quickly forget about.
 
-Pretty sure this is the meanest looking car I've ever seen.
+By now we would have truly bonded, fallen out, made up many times but constantly reminding each other that we are truly within sight of the finishing line. To date we would have clocked up nearly a thousand miles with the added bonus of a few unexpected detours, no doubt.
 
-Below you should find a VeloViewer of the day's ride (sometimes takes a
-few seconds to load):-
+Leaving behind Taunton, today’s route sees us move along the picturesque Devon countryside, towards Dulverton, a small town and civil parish in the heart of West Somerset surrounded by a many number of small and not so small rivers and waterways. Hopefully the guide for the day will not get us too wet.
+
+Other than a small climb, hopefully at the start of the days ride the fairly green and flat route sees us head en masse to Tiverton. Where, keeping the water theme of the day sees us arrive in the town which dates back to the Stone Age and who’s name is derived from "Twy-ford-ton" or "Twyverton", meaning "the town on two fords". The town stands at the meeting point of the rivers Exe and Lowman.
+
+Fun fact, Tiverton is also the birth town of Bobby G lead member of the 80’s pop band Bucks Fizz.
+
+Leaving behind the Land of Make Believe (the only Bucks Fizz reference I promise..!) we head on south, parallel to the River Exe through Bickleigh, Upexe and Nether Exe. And hopefully not upsetting the locals too much we will be allowed to arrive in Exeter.
+
+This being the most south-westerly Roman fortified settlement in Britain, which also seems to be a key feature and location trough many historical periods mainly due to its key location along the fast flowing waters of the River Exe.
+
+It will probably remain ever in our memories as one of the last major towns that we pass through along this journey of the UK. Will also prove a chance to perhaps top up on the tan, with the highest recorded temperature being 27c. FLUIDS!! will no doubt be the word of the day.
+
+Heading West, out of Exeter towards Longdown and along the B3212 – Longdown Road we head to a fearful point in the journey.
+
+Now if I was a betting man I would take the B3193 – no doubt a very nice peaceful and flat route along south Devon with a strong tail wind making for a gentile ride to the next stop.
+
+I would not on the other hand wish to take the alternative route along what the map suggests is called Six Mile Hill, or as I would refer to it “HELL ON TWO WHEELS” or the alternative “ARE WE AT THE TOP YET!”
+So having turned right we progress joyfully along Six Mile Hill, taking in the view of Dartmoor national park and the wonders it contains. And what records suggest is 954 square kilometres best experienced with a spot walking, horse riding, climbing and other such mad capped outdoor activities that sees grown men turn into children racing each other up and down hills.
+
+Hopefully we don’t pass too close to Bovey castle, the luxury spa and golf resort. That would not be fair. However, I would like to see the sight of the staff if we all decided to rock up and try and blag an all over massage and steam session after 10 days in the saddle.
+
+Continuing along the slight south westerly route through the national park our route takes us out towards Princetown and Yelverton. Here we come across yet another area of outstanding national beauty – no not our van driver, Keith stopped by the side of the road with drinks and snacks, but Tamar Valley. And just to mention…thanks Keith, no doubt someone we will all be very great full to see alongside us on this epic adventure.
+
+The valley here is regarded as a special area that surrounds the rivers Tamar, Tavy and Lynher. The area is famous for its mining heritage landscape. From one side you are facing Devon and if your turn around you look out over Cornwall and the last county and challenge that we face.
+
+And on the last leg of this section of ride sees us wheel our way to Plymouth and a well-earned beer, eat, sleep and repeat for just one more day.
+
 
 <iframe style="width:100%;height:600px;" src="https://veloviewer.com/routes/7097889/embed2" frameborder="0" scrolling="no"></iframe>
 
