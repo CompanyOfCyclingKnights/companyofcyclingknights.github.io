@@ -48,9 +48,14 @@ cold, hard stats...
   - Dave: 1.
 
 <img src="/assets/sean_puncture.jpeg" >
+
+>  _"This ride has left me flat..."_
+>
+>  -- <cite>Mike</cite>
+
 <img src="/assets/steve_puncture.jpg" >
 
->  "Felt a bit deflated after Monday...."
+>  _"Felt a bit deflated after Monday...."_
 >
 >  -- <cite>Baggy</cite>
 
@@ -65,6 +70,11 @@ damaged.  Luckily for all involved we have no photographic evidence.
 
 
 ## The life Aquatic
+
+>  _"This has brought it all flooding back..."_
+>
+>  -- <cite>Dave C</cite>
+
 The weather throughout the day was pretty soggy.
 
 Of particular note was the properly flooded lane we went through before
@@ -75,6 +85,7 @@ the mud covering what was left of the road.
 Fitz managed to get a photo, now shown as at the top of this page.
 
 Happily you don't really notice wet feet when it's raining.
+
 
 ## The Best Chips
 Our group split with 4 heading into Southwold and 3 staying back to fix
