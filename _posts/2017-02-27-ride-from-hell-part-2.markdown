@@ -86,6 +86,7 @@ Fitz managed to get a photo, now shown as at the top of this page.
 
 Happily you don't really notice wet feet when it's raining.
 
+<img src="/assets/sean_steve_double_puncture.jpg" />
 
 ## The Best Chips
 Our group split with 4 heading into Southwold and 3 staying back to fix
