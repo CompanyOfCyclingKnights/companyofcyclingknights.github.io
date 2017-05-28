@@ -5,7 +5,7 @@ date:   2017-05-25 05:30:00
 author: Sean
 categories: Ride
 tags: ride
-cover:  "/assets/cockbridge.jpg"
+cover:  "/assets/chitcomb-barns.jpeg"
 ---
 
 ## Good bye to Cirencester
