@@ -14,7 +14,7 @@ Well, gather round and I shall tell you of the saga that was the Cycling
 Knight's training ride to Southwold...
 
 Even though it was throwing it down when I left home, the day still
-started really well, with Nigel serving us all up some bacon baps for
+started really well, with Bill serving us all up some bacon baps for
 breakfast.
 
 When we'd finished eating the rain had stopped and it looked

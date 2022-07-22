@@ -8,10 +8,10 @@ tags: charity
 cover:  "/assets/sea-cadet-banner.jpg"
 ---
 
-## Baggy and Nigel make the trip to Chelmsford
+## Baggy and Bill make the trip to Chelmsford
 
 As part of our goal to get money out to our charities as quickly as
-possible Baggy and Nigel made the trip from London to Chelmsford to
+possible Baggy and Bill made the trip from London to Chelmsford to
 present a cheque for £333 to the Chelmsford Sea Cadets.
 
 This is part of the generous sponsorship of the people at [Canary Wharf Group
@@ -21,7 +21,7 @@ This is part of the generous sponsorship of the people at [Canary Wharf Group
 their commanding officer Lieutenant Seb Briton.
 
 
-![Nigel presenting our first cheque to Sue
+![Bill presenting our first cheque to Sue
 Miller](/assets/sea-cadet-presentation.jpeg)
 
 

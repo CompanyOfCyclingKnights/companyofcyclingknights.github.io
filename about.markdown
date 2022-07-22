@@ -14,19 +14,15 @@ We are 8 cyclists and 1 driver. Get to know the team below.
 
 <a name="nigel"></a>
 
-## Nigel
+## Bill
 
-<img src="/assets/team/nigel.png" class="person">
-
-Nigel “Bill“ Bunton<br/>
+“Bill“<br/>
 Age: 47<br/>
 Height: F600<br/>
 Weight: 14stone 11<br/>
 Bikes: Ridley Noah SL and a SL02 BMC
 
 I'm the loud one who has sort of put this bunch of riders together.
-
-Originally from the North West, but currently living in Ipswich with my fiancée Karen and her daughter Leah. Our wedding was put slightly on hold for this trip, so a big thanks to my intended Karen.
 
 I have been cycling for the last 10 years and this will be my second time doing the trip, the last was in 2014 heading north from Lands' End. I have done numerous sportives and 12 Triathlons. Getting round is the achievement and I'll do anything for a medal, a bit like Muttley, that well known dog.
 
@@ -78,7 +74,7 @@ Despite the early morning rides, the hills and more hills I have really enjoyed 
 
 <img src="/assets/team/steve.png" class="person">
 
-As a late arrival into the Knights team I'm still getting my head round a 1,200 mile bike ride. I'm the youngest member, just, at 39! So there is really no excuses for me not to be fit and ready for this adventure of a lifetime. I've been cycling with Nigel & Sean for a while now and we are all cycling mad, although Sean probably tops the table there.
+As a late arrival into the Knights team I'm still getting my head round a 1,200 mile bike ride. I'm the youngest member, just, at 39! So there is really no excuses for me not to be fit and ready for this adventure of a lifetime. I've been cycling with Bill & Sean for a while now and we are all cycling mad, although Sean probably tops the table there.
 
 I live in Ipswich with my wife and son. I drink a lot of peppermint tea and eat a lot of bananas and chicken drumsticks. I could explain why, but its a long and boring explanation. As its getting towards winter right now I'm probably topping out at about 10 cups or peppermint tea a day.
  This doesn't come easy, it takes training and commitment to get to that level of tea drinking. Apart from going on bike rides I also love watching the pro peloton race usually via Eurosport, hour after hour of not much happening is strangely relaxing. When I'm not working and cycling I love a good box set or strumming my guitar.

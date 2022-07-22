@@ -17,10 +17,10 @@ Mission](https://whitechapel.org.uk/) provide vital help to many who would have
 no where else to turn. Something as simple as a hot meal can make all the
 difference to how someone views their day.
 
-Baggy, Mike and Nigel have been putting in time to help out with Mission's
+Baggy, Mike and Bill have been putting in time to help out with Mission's
 breakfast duties serving over 300 people.
 
-![Nigel, Baggy and Mike](/assets/knights_at_the_white_chappel_mission.jpeg)
+![Bill, Baggy and Mike](/assets/knights_at_the_white_chappel_mission.jpeg)
 
 What does that entail?  Well for starters it means getting to the Mission in the
 middle of the night and cooking over 600 fried eggs and, in particular,

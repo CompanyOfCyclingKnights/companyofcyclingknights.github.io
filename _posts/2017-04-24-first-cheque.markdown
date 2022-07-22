@@ -14,11 +14,11 @@ We'd like to once again thank you, our sponsors, for your support.
 You'll be very pleased to know we've decided to present any money that
 comes into us directly to our charities as soon as it's available.
 
-We're very pleased to announce that today Nigel was able to present a
+We're very pleased to announce that today Bill was able to present a
 cheque to the Sue Miller at the Whitechapel
 Mission for £333.
 
-![Nigel presenting our first cheque to Sue
+![Bill presenting our first cheque to Sue
 Miller](/assets/donation-cheque-whitechapel-mission.jpeg)
 
 Sue has been the manager of the Mission for 32 years, providing help to
